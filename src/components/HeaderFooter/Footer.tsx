@@ -22,7 +22,7 @@ const Footer = () => {
 
     return (
         <div className="flex flex-col bg-black text-white m-0 p-5">
-            <img src="" alt="logo" />
+            <img src="public/favicon.ico" alt="logo" className="w-24 mb-3" />
             <p>Lorem Ipsum is simply dummy text of the printing and 
                 type setting industry. Lorem Ipsum has been the industry's 
                 standard dummy text ever since when an unknown printer galley 

@@ -57,7 +57,7 @@ const Header = () => {
                 {otherLoginRender()}
             </div>
             <div className="flex bg-white h-16 justify-between items-center m-0 px-5">
-                <a href="/"><img src="" alt="logo" /></a>
+                <a href="/"><img src="public/favicon.ico" alt="logo" className="w-24" /></a>
                 <MenuOutlined 
                     style={{color: 'white'}} 
                     className="bg-blue-500 p-3 rounded-md transform hover:scale-110 duration-500 cursor-pointer"
